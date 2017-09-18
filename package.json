@@ -33,8 +33,7 @@
   "dependencies": {
     "d3-collection": "1",
     "d3-dispatch": "1",
-    "d3-dsv": "1",
-    "xmlhttprequest": "1"
+    "d3-dsv": "1"
   },
   "devDependencies": {
     "eslint": "4",
